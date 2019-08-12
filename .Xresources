@@ -1,0 +1,9 @@
+#include ".colors/monokai"
+
+!! URXVT
+URxvt*font:		xft:dejavu sans mono:size=9
+URxvt.scrollBar:	false
+URxvt.scrollBar_right:	false
+URxvt.cursorBlink:	true
+URxvt.letterSpace:	0
+URxvt.lineSpace:	0
